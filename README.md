@@ -12,6 +12,8 @@ Ce projet est une application web complète destinée à la gestion des établis
 - 🏫 **Gestion des classes et matières** : Organiser les classes, attribuer des matières aux enseignants.
 - 📅 **Gestion des absences** : Enregistrer et suivre les absences des élèves.
 - 📝 **Gestion des notes** : Ajouter, modifier, consulter les notes par matière.
+- <img width="954" alt="eleve 1" src="https://github.com/user-attachments/assets/13b55dcd-ad60-48c3-b648-484771967033" />
+
 - 📊 **Statistiques des élèves** :
   - Moyenne générale par élève / matière.
   - Taux d’absentéisme.
